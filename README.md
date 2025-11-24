@@ -3,7 +3,7 @@ Name :- PUNEET KHANDELWAL
 
 Registration No. :- 25MIP10154
 
-Project Title :- DIGITAL RESUME CHECKER
+Project Title :- AI RESUME CHECKER
 
 
 Overview of the project :
